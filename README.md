@@ -93,5 +93,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 🔗 [LinkedIn](https://www.linkedin.com/in/imran-ahmad-9458099b/) 
 🔗 [GitHub](https://github.com/imranc07/)
-🔗 [Dev.to]("https://dev.to/imranc07/)
-🔗 [Portfolio]("https://imranc07.github.io/imran-portfolio/)
+🔗 [Dev.to](https://dev.to/imranc07/)
+🔗 [Portfolio](https://imranc07.github.io/imran-portfolio/)
